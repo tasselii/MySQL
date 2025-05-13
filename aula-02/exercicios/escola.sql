@@ -42,7 +42,9 @@ SELECT * FROM tb_aluno WHERE nota > 7 ORDER BY nota;
 
 SELECT * FROM tb_aluno WHERE nota < 7 ORDER BY nota;
 
-UPDATE tb_aluno SET nota = 7.00 WHERE status_id = 3;
+SELECT * FROM tb_aluno;
+
+UPDATE tb_aluno SET nota = 8.00 WHERE id = 1;
 
 SELECT * 
 FROM tb_aluno
