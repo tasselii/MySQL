@@ -36,7 +36,7 @@ O conteúdo foi desenvolvido como parte do módulo de banco de dados do Bootcamp
 
 | Tópico                 | Acesso                                                       | Descrição                                                      |
 | --------------------- | ------------------------------------------------------------ | -------------------------------------------------------------- |
-| Exercício SQL         | [Abrir](https://github.com/tasselii/mysql-exercicio)         | Exercício completo envolvendo criação de tabelas, inserção de dados, consultas e relacionamentos |
+| Exercício SQL         | [Abrir](https://github.com/tasselii/MySQL/tree/main/aula-02/exercicios)         | Exercício completo envolvendo criação de tabelas, inserção de dados, consultas e relacionamentos |
 
 
 <br />
